@@ -1,0 +1,13 @@
+prefix=D:/Code/ML/Projects/Medical Insurance Predictor/mipenv/Library
+exec_prefix=D:/Code/ML/Projects/Medical Insurance Predictor/mipenv/Library
+libdir=D:/Code/ML/Projects/Medical Insurance Predictor/mipenv/Library/lib
+sharedlibdir=D:/Code/ML/Projects/Medical Insurance Predictor/mipenv/Library/lib
+includedir=D:/Code/ML/Projects/Medical Insurance Predictor/mipenv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

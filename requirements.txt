@@ -1,0 +1,8 @@
+
+markup
+jinja2 2.1.5
+colorama-0.4.6
+node
+npm
+numpy 1.26.4
+scikit-learn 1.4.2
